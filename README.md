@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Gaurav Joshi, a passionate Btech C.S.E final year student and Python Backend Engineer 🚀.
-👨‍💻 About Me
+👨‍💻 About Me:
 Resume:https://drive.google.com/drive/folders/1SH_hKSDzbfs-T18a8MxLErEV8Qv5wXBj
 🔭 Currently working on: Full-stack web development and solving DSA problems daily.
 🌱 Currently learning: Advanced React.js, Next.js, Prisma, and Cloud Computing (Azure).
