@@ -3,7 +3,7 @@
 I'm **Gaurav Joshi**, a passionate **B.Tech CSE final year student** and **Python Backend Engineer** 🚀.  
 
 ### 👨‍💻 About Me  
-📄 **Resume:** [Google Drive Link](https://drive.google.com/drive/folders/1SH_hKSDzbfs-T18a8MxLErEV8Qv5wXBj)  
+📄 **Resume:** [Google Drive Link](https://drive.google.com/drive/folders/1yC8DsBCOcVN09qRgFMneawQ_FZEK9XTI)  
 🔭 **Currently working on:** Full-stack web development and solving DSA problems daily.  
 🌱 **Currently learning:** Advanced **React.js, Next.js, Prisma, and Cloud Computing (Azure)**.  
 💼 **Internship:** Backend Developer at **Datopic Technology** (Worked with **FastAPI and backend systems**).  
